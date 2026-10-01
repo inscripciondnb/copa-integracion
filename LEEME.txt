@@ -1,0 +1,9 @@
+Este cambio elimina el bloqueo de 15 minutos por intentos fallidos en staff y organizador.
+
+1. Extraer el ZIP.
+2. Abrir https://github.com/inscripciondnb/copa-integracion
+3. Add file > Upload files. Arrastrar la carpeta lib extraida (contiene dos archivos).
+4. Commit changes en main.
+5. Esperar que Cloudflare complete el despliegue y recargar la pagina.
+
+La validacion de la contraseña y las sesiones siguen activas. No cambia los datos de la copa.
