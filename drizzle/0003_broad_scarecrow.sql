@@ -1,0 +1,1 @@
+CREATE INDEX `idx_gallery_created_id` ON `gallery_photos` (`created_at`,`id`);

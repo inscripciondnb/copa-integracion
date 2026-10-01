@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790857564860,
+      "tag": "0000_chemical_microbe",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790860194706,
+      "tag": "0001_puzzling_junta",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790860486516,
+      "tag": "0002_blushing_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790860734527,
+      "tag": "0003_broad_scarecrow",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790861558712,
+      "tag": "0004_living_absorbing_man",
+      "breakpoints": true
+    }
+  ]
+}
